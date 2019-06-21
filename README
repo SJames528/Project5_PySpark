@@ -1,1 +1,4 @@
-Hello
+Our code is an attempt to parallelise aspects of the RSA encryption scheme. The parts of the repo are:
+
+* when12.txt  : The text file we aim to encrypt
+* 
