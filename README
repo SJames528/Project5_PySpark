@@ -1,4 +1,7 @@
 Our code is an attempt to parallelise aspects of the RSA encryption scheme. The parts of the repo are:
 
-* when12.txt  : The text file we aim to encrypt
-* 
+* when12.txt    : The text file we aim to encrypt
+* datamaker.py  : An app to convert this text file into a workable binary list (using ASCII) [no pySpark]
+
+* primeApp.py   : Generates a random integer and uses pySpark to deduce if this number is prime.
+* PySpark.ipynb : Encrypts the binary data file using RSA, parallelizing using pySpark
