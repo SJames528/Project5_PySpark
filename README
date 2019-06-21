@@ -7,3 +7,7 @@ Our code is an attempt to parallelise aspects of the RSA encryption scheme. The 
 * PySpark.ipynb : Encrypts the binary data file using RSA, parallelising using pySpark
 
 The programs should be run in this order
+
+
+BIBLIOGRAPHY:
+https://www.tutorialspoint.com/pyspark/pyspark_quick_guide.htm
