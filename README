@@ -4,4 +4,6 @@ Our code is an attempt to parallelise aspects of the RSA encryption scheme. The 
 * datamaker.py  : An app to convert this text file into a workable binary list (using ASCII) [no pySpark]
 
 * primeApp.py   : Generates a random integer and uses pySpark to deduce if this number is prime.
-* PySpark.ipynb : Encrypts the binary data file using RSA, parallelizing using pySpark
+* PySpark.ipynb : Encrypts the binary data file using RSA, parallelising using pySpark
+
+The programs should be run in this order
